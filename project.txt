@@ -1,0 +1,5 @@
+URL,Label
+http://google.com,0
+http://facebook.com,0
+http://free-money.xyz,1
+http://win-prize-now.net,1
